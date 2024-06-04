@@ -19,8 +19,8 @@ body{
     height: 0;
     border-top : 100px solid transparent;
     border-bottom: 100px solid #FC8EAC;
-    border-right: 200px solid #FFC0CB;
-    border-left: 200px solid #FFC0CB;
+    border-right: 200px solid #e06176;
+    border-left: 200px solid #e26278;
 }
 .container .txt{
     font-weight: bold;
